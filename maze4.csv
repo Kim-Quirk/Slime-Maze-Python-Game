@@ -1,11 +1,11 @@
 X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
 X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
-X,.,X,.,.,.,X,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,X,P,X
+X,C,X,.,.,.,X,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,X,P,X
 X,.,.,.,X,.,X,X,X,X,.,X,.,X,X,X,X,X,X,.,X,.,X,.,X
 X,.,X,X,X,.,X,C,.,.,.,X,.,X,C,C,C,X,.,.,X,.,X,.,X
 X,.,.,.,X,.,X,.,X,X,X,X,.,X,C,E,C,X,.,.,X,.,X,.,X
 X,X,X,.,X,.,X,.,.,.,C,X,.,X,C,C,C,.,.,.,X,.,X,.,X
-D,.,.,.,X,.,X,X,X,X,.,X,.,X,X,X,X,X,X,X,X,C,X,.,X
+D,C,.,.,X,.,X,X,X,X,.,X,.,X,X,X,X,X,X,X,X,C,X,.,X
 X,X,X,X,X,.,X,C,.,.,.,X,.,.,.,.,C,C,X,C,X,C,X,.,X
 X,.,.,.,.,.,X,.,X,X,X,X,.,X,X,X,X,X,X,.,X,X,X,.,X
 X,X,X,X,X,X,X,.,.,.,.,X,E,.,.,.,.,.,.,.,.,.,.,.,X
@@ -13,8 +13,8 @@ X,C,C,C,X,.,.,.,.,.,.,X,.,X,X,.,X,,X,X,X,X,X,C,X
 X,C,C,C,X,.,.,X,.,.,.,.,.,.,.,.,X,.,X,C,.,C,X,C,X
 X,C,C,C,.,.,.,X,.,.X,.,.,.,X,C,C,X,.,X,X,.,X,X,C,X
 X,X,X,X,.,.,.,X,.,X,.,E,.,X,C,C,X,.,.,.,.,.,X,C,X
-X,E,.,.,.,.,.,X,.,X,X,.,E,X,C,C,X,.,X,.,X,X,X,C,X
-X,.,X,.,X,.,.,.,.,X,.,E,.,X,C,C,X,.,X,.,.,.,X,C,X
-X,.,.,X,.,X,.,X,.,X,E,.,X,X,C,C,X,.,X,X,X,.,X,C,X
-X,E,.,.,.,.,.,X,.,X,.,E,.,X,C,C,X,.,X,C,.,.,X,C,X
+X,E,.,.,.,.,.,X,.,X,.,.,E,X,C,C,X,.,X,.,X,X,X,C,X
+X,.,X,.,X,.,.,.,.,X,.,.,.,X,C,C,X,.,X,.,.,.,X,C,X
+X,.,.,X,.,X,.,X,.,X,E,.,E,X,C,C,X,.,X,X,X,.,X,C,X
+X,E,.,.,.,.,.,X,.,X,.,.,.,X,C,C,X,.,X,C,.,.,X,C,X
 X,X,X,X,X,X,X,X,X,X,X,D,X,X,X,X,X,X,X,X,X,X,X,X,X
