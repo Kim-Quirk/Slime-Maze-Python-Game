@@ -197,7 +197,7 @@ class GameView1(arcade.View):
 
         # Put the text on the screen.
         output = f"Score: {self.score}"
-        arcade.draw_text(output, 16, 2, arcade.color.WHITE, 14)
+        arcade.draw_text(output, 32, 8, arcade.color.WHITE, 16)
     
     def on_key_press(self, key, modifiers):
         """Called whenever a key is pressed. """
@@ -338,7 +338,7 @@ class GameView2(arcade.View):
 
         # Put the text on the screen.
         output = f"Score: {self.score}"
-        arcade.draw_text(output, 16, 2, arcade.color.WHITE, 14)
+        arcade.draw_text(output, 32, 8, arcade.color.WHITE, 16)
     
     def on_key_press(self, key, modifiers):
         """Called whenever a key is pressed. """
@@ -479,7 +479,7 @@ class GameView3(arcade.View):
 
         # Put the text on the screen.
         output = f"Score: {self.score}"
-        arcade.draw_text(output, 16, 2, arcade.color.WHITE, 14)
+        arcade.draw_text(output, 32, 8, arcade.color.WHITE, 16)
     
     def on_key_press(self, key, modifiers):
         """Called whenever a key is pressed. """
@@ -620,7 +620,7 @@ class GameView4(arcade.View):
 
         # Put the text on the screen.
         output = f"Score: {self.score}"
-        arcade.draw_text(output, 16, 2, arcade.color.WHITE, 14)
+        arcade.draw_text(output, 32, 8, arcade.color.WHITE, 16)
     
     def on_key_press(self, key, modifiers):
         """Called whenever a key is pressed. """
