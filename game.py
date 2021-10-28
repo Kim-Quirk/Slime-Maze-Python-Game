@@ -11,9 +11,7 @@ python -m arcade.examples.sprite_move_walls
 
 import arcade
 import os
-import random
 import pandas as pd
-import numpy
 import constants
 import arcade.gui
 
