@@ -3,9 +3,7 @@ This is Slime Maze! It's a simple maze game. Your goal is to escape the maze by 
 
 I wrote this program to become more familiar with game design and Python Arcade. I have not done much with the arcade library and learning how to make a game in Python was a lot of fun.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/osxFSwkYkT0)
 
 # Development Environment
 
